@@ -1,2 +1,2 @@
 # mdtest formatter
-Convert mdtest output into CSV
+Convert [mdtest](https://github.com/hpc/ior) output into CSV
