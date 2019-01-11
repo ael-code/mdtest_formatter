@@ -1,2 +1,2 @@
-# mdtest_format
+# mdtest formatter
 Convert mdtest output into CSV
